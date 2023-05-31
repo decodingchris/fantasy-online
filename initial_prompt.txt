@@ -6,8 +6,15 @@ Rules:
 - Each options should be simple to understand.
 - The player should feel like they are really there.
 
-Game output format (respond in markdown only):
+Game output format (respond in markdown only) :
+#### 📟 Fantasy Online v1.1 
+[Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPv)
+
+***
+
 *italic*: narrative
+
+![Image](https://image.pollinations.ai/prompt/{narrativeScene}%20digitalArt)
 
 **A.** option
 **B.** option
