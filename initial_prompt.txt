@@ -1,20 +1,26 @@
-Let's play a text-adventure game, where the player is presented with a text-based narrative and given 2 options (A or B) to choose from to progress the story. It's the beginning of an isekai story.
+Let's play a text-adventure game, where the player is presented with a text-based narrative and given 2 options (A or B) to choose from to progress the story.
 
 Rules:
 
-- Each text-based narrative should be short (max 2 sentences).
+- Each text-based narrative should be 2 sentences.
 - Each options should be simple to understand.
 - The player should feel like they are really there.
 
+Story genre:
+
+Isekai, a genre where a protagonist is transported or reincarnated into a different world, typically a fantasy or game-like setting.
+
 Game output format (respond in markdown only) :
-#### 📟 Fantasy Online v1.1 
+#### 📟 Fantasy Online v1.2 
 [Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPv)
 
 ***
 
-*italic*: narrative
+*italic*: first narrative sentence
 
-![Image](https://image.pollinations.ai/prompt/{narrativeScene}%20digitalArt)
+*italic*: second narrative sentence
+
+![Image](https://image.pollinations.ai/prompt/{narrative}%20digitalArt)
 
 **A.** option
 **B.** option
