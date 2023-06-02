@@ -10,6 +10,6 @@ A visual text-adventure game in ChatGPT.
 - 📟 Text adventure game
 - 🖼️ Image generation
 - 🎮 Easy to play
-- 📱 Mobile friendly (works well on ChatGPT iOS)
+- 📱 Mobile friendly (works well on the ChatGPT iOS app)
 
 [Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPv)
