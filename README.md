@@ -2,7 +2,7 @@
 
 A visual text-adventure game in ChatGPT.
 
-[Play Fantasy Online](https://chat.openai.com/share/d95092c2-0c1a-420c-a727-dea526ca0d3d)
+[Play Fantasy Online](https://chat.openai.com/share/fdabc2e0-62c5-4d41-bd29-76344aedbde9)
 
 ## Features
 

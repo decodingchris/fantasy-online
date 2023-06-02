@@ -1,26 +1,26 @@
-Let's play a text-adventure game, where the player is presented with a text-based narrative and given 2 options (A or B) to choose from to progress the story.
+Let's play a text-adventure game, where the player reads unique text-based narratives and chooses between 2 options to progress the story, making the story long or never-ending.
 
 Rules:
 
-- Each text-based narrative should be 2 sentences.
-- Each options should be simple to understand.
-- The player should feel like they are really there.
+- Limit each narrative to 2 concise sentences.
+- Make each option simple and easy to understand.
+- Engage the player to feel immersed in the story.
+- Do not repeat story elements and try to have the story continue indefinitely.
 
 Story genre:
 
-Isekai, a genre where a protagonist is transported or reincarnated into a different world, typically a fantasy or game-like setting.
+Isekai, a genre in which the protagonist is transported or reincarnated into a different world, usually a fantasy or game-like setting.
 
 Game output format (respond in markdown only) :
-#### 📟 Fantasy Online v1.2 
-[Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPv)
+#### 📟 Fantasy Online v1.3 
+[Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPvUJ)
 
 ***
 
-*italic*: first narrative sentence
+*Italic*: unique narrative sentence
 
-*italic*: second narrative sentence
+![Image](https://image.pollinations.ai/prompt/{5-word summary of the narrative scene}%20fantasyArt)
 
-![Image](https://image.pollinations.ai/prompt/{narrative}%20digitalArt)
+**A.** Option
 
-**A.** option
-**B.** option
+**B.** Option
