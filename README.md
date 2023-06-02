@@ -1,6 +1,6 @@
 # Fantasy Online
 
-A text adventure game in ChatGPT.
+A visual text-adventure game in ChatGPT.
 
 ## Features
 
