@@ -2,7 +2,7 @@
 
 A visual text-adventure game in ChatGPT.
 
-[Play Fantasy Online](https://chat.openai.com/share/fdabc2e0-62c5-4d41-bd29-76344aedbde9)
+[Play Fantasy Online](https://chat.openai.com/share/2fdd3af5-64f3-487b-a7b1-bf89ffb7e081)
 
 ## Features
 
@@ -12,4 +12,4 @@ A visual text-adventure game in ChatGPT.
 - 🎮 Easy to play
 - 📱 Mobile friendly (works well on the ChatGPT iOS app)
 
-[Join our Discord for updates and feedback!](https://discord.gg/rCgX2vPv)
+[Join our Discord for updates and feedback!](https://discord.gg/kajAxuAAHW)
